@@ -11,5 +11,6 @@ public class hello {
       args[0], args[1], Integer.toString(sum));
       
     System.out.println("Это первый текст на Java в AWS \n и это круто!!!");
+    System.out.println("Hello world from GitHub!");
   }
 }
