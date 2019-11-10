@@ -1,4 +1,4 @@
-public class hello {
+﻿public class hello {
 
   public static void main(String []args) {
     System.out.println("Hello, World!\n");
@@ -10,7 +10,7 @@ public class hello {
     System.out.format("The sum of %s and %s is %s.\n",
       args[0], args[1], Integer.toString(sum));
       
-    System.out.println("Это первый текст на Java в AWS \n и это круто!!!");
+    System.out.println("Это второй текст на Java в AWS \n и это круто!!!");
     System.out.println("Hello world from GitHub!");
   }
 }
